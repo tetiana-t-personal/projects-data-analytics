@@ -1,0 +1,2 @@
+This report focuses on analyzing global population data spanning from 1960 to 2021.
+Several visualizations are incorporated into the report, including a card visual displaying the current population as of 2021, a column chart illustrating the current population by continent, a map visual showcasing population figures by country, and a line chart suggesting glimpse into the projected world population for the next 20 years.
